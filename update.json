@@ -1,7 +1,7 @@
 {
   "name": "SGP Integrado",
   "slug": "sgp-integration",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "author": "Julio César Martinez",
   "homepage": "https://github.com/juliomartinezjcms/sgp-updates",
   "download_url": "https://juliomartinezjcms.github.io/sgp-updates/sgp-integration.zip",
@@ -9,9 +9,9 @@
   "tested": "6.5",
   "last_updated": "2025-07-01",
   "release_date": "1 de Julho de 2025",
-  "changelog": "<ul><li>Atualização de segurança e melhorias gerais.</li></ul>",
+  "changelog": "<ul><li>Pequena alteração para forçar commit. Versão 2.4.1</li></ul>",
   "sections": {
     "description": "Entre em contato com o suporte para atualização.",
-    "changelog": "Versão 2.4.0 - Atualização de segurança e melhorias gerais."
+    "changelog": "Versão 2.4.1 - Pequena alteração para forçar commit."
   }
 } 
