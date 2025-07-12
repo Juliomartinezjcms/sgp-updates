@@ -1,7 +1,7 @@
 {
   "name": "SGP Integrado",
   "slug": "sgp-integration",
-  "version": "2.6.0",
+  "version": "2.7.1",
   "author": "Julio César Martinez",
   "homepage": "https://github.com/Juliomartinezjcms/sgp-updates",
   "download_url": "https://juliomartinezjcms.github.io/sgp-updates/sgp-integration.zip",
@@ -9,5 +9,7 @@
   "tested": "6.5",
   "last_updated": "2025-01-28",
   "release_date": "28 de janeiro de 2025",
-  "changelog": "Nova página de relatórios completa com gráficos interativos, filtros por período, exportação CSV e estatísticas avançadas. Adicionado campo configurável para distância de cobertura."
+  "changelog": "Nova página de relatórios completa com gráficos interativos, filtros por período, exportação CSV e estatísticas avançadas.",
+  "requires_php": "7.4",
+  "requires_wordpress": "5.0"
 } 
